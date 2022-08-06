@@ -138,4 +138,26 @@ footer{
     height: 50px;
     background: url("img/checker2.jpg") red;
     background-size: 100% 100%;
+    font-weight: bold;
+}
+.checkered{
+    height: 50px;
+
+  
+    background: linear-gradient(45deg, rgba(255, 0, 0, 1) 25%, transparent 25%, transparent 75%, rgba(255, 0, 0, 1) 75%, rgba(255, 0, 0, 1) 0), linear-gradient(45deg, rgba(255, 0, 0, 1) 25%, transparent 25%, transparent 75%, rgba(255, 0, 0, 1) 75%, rgba(255, 0, 0, 1) 0), white;
+    background-repeat: repeat, repeat;
+    background-position: 0px 0, 18px 18px;
+    transform-origin: 0 0 0;
+    background-origin: padding-box, padding-box;
+    background-clip: border-box, border-box;
+    background-size: 36px 36px, 36px 36px;
+    box-shadow: none;
+    text-shadow: none;
+    transition: none;
+    transform: scaleX(1) scaleY(1) scaleZ(1);
+    /*background-color: red; */
+}
+.credit{
+	    position: relative;
+    top: 18px
 }
