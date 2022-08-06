@@ -161,3 +161,8 @@ footer{
 	    position: relative;
     top: 18px
 }
+.boxed {
+	width: 120px;
+	border: 2px solid red;
+    margin:  auto;
+}
