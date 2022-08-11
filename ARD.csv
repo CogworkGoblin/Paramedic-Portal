@@ -1,0 +1,13 @@
+id,postcode,suburb,concat,LHD,service1,service2,service3,service4
+1,2039,Rozelle,2039_Rozelle,SydLHD,RPA foot clinic,PMBC,GFS,Sydney fracture clinic
+2,2040,Rozelle,2040_Rozelle,SydLHD,RPA foot clinic,PMBC,GFS,Sydney fracture clinic
+3,2041,Balmain,2041_Balmain,SydLHD,RPA foot clinic,PMBC,GFS,Sydney fracture clinic
+4,2041,Balmain East,2041_Balmain East,SydLHD,RPA foot clinic,PMBC,GFS,Sydney fracture clinic
+5,2041,Birchgrove,2041_Birchgrove,SydLHD,RPA foot clinic,PMBC,GFS,Sydney fracture clinic
+6,2039,Lilyfield,2039_Lilyfield,SydLHD,RPA foot clinic,PMBC,Outreach,CRGH Fracture Clinic
+7,2039,White bay,2039_White bay,SydLHD,RPA foot clinic,PMBC,Outreach,CRGH Fracture Clinic
+8,2038,Annandale,2038_Annandale,SydLHD,RPA foot clinic,PMBC,Outreach,CRGH Fracture Clinic
+9,2042,Drummoyne,2042_Drummoyne,SydLHD,Concord Pediatry,Concord MH,Outreach,CRGH Fracture Clinic
+10,2043,Henly,2043_Henly,SydLHD,Concord Pediatry,Concord MH,Outreach,RNS Fracture Clinic
+11,2111,Gladesville,2111_Gladesville,NSLHD,Ryde feet world,Ryde MH,Outreach,RNS Fracture Clinic
+12,2110,Ryde,2110_Ryde,NSLHD,Ryde feet world,Ryde MH,RNS age care,RNS Fracture Clinic
